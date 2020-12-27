@@ -13,7 +13,7 @@ function CGP_MSE_compare
 
 % Parameter & Options
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Mode = 2;                   % ground true generation method
+Mode = 1;                   % ground true generation method
 num_of_pre_sample = 100;    % number of prediction samples
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

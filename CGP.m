@@ -20,7 +20,7 @@ function CGP(M_est_in,Mode_in)
 
 % Parameter & Options
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-M_est = 5;          % the order of estimated model
+M_est = 3;          % the order of estimated model
 Mode = 1;           % ground true generation method
 Max_iter = 30;      % maximum number of iteration
 Epsilon = 0.001;    % termination criterion

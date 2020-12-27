@@ -137,14 +137,8 @@ xticks([101 110:10:100+num_of_pre_sample])
 xlim([101 100+num_of_pre_sample])
 if CGP_Model
     title({'SVAR prediction error of x[k]', 'Ground true data generated from CGP model'},'FontSize',15,'Interpreter','latex')
-    text(280,0.037,'\downarrow')
-    text(276,0.0385,'M = 3')
 else
     title({'SVAR prediction error of x[k]', 'Ground true data generated from SVAR model'},'FontSize',15,'Interpreter','latex')
-    text(270,0.033,'\downarrow')
-    text(266,0.0345,'M = 3')
-    text(270,0.0235,'\uparrow')
-    text(266,0.021,'M = 5, 7~10')
 end
 xlabel('k','FontSize',15)
 ylabel('MSE','FontSize',15)
