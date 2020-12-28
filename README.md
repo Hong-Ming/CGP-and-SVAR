@@ -1,12 +1,12 @@
 # Graph Learning: Causal Graph Process (CGP) & Sparse Vector Autoregressive model (SVAR)
 
 ## Table of Contents
-* [Intorduction](#intorduction)
-* [Directory Tree](#directory-tree)
-* [Requirements](#requirements)
-* [Description](#description)
-* [Reference](#reference)
-* [Contributor](#contributor)
+- [Intorduction](#intorduction)
+- [Directory Tree](#directory-tree)
+- [Requirements](#requirements)
+- [Description](#description)
+- [Reference](#reference)
+- [Contributor](#contributor)
 
 ## Intorduction
 This work contains the impelmentation and comparison of two graph learning algorithms, Causal Graph Process (CGP) [1] and Sparse Vector Autoregressive model (SVAR) [2]. These two graph learning methods can be used to derive the graph representation among a large number of unstructured time series data, and then make predictions on the future data.
