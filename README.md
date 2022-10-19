@@ -1,12 +1,14 @@
 # Graph Learning: Causal Graph Process (CGP) & Sparse Vector Autoregressive model (SVAR)
 
 ## Table of Contents
-- [Intorduction](#intorduction)
-- [Directory Tree](#directory-tree)
-- [Requirements](#requirements)
-- [Description](#description)
-- [Reference](#reference)
-- [Contributor](#contributor)
+- [Graph Learning: Causal Graph Process (CGP) & Sparse Vector Autoregressive model (SVAR)](#graph-learning-causal-graph-process-cgp--sparse-vector-autoregressive-model-svar)
+    - [Table of Contents](#table-of-contents)
+    - [Intorduction](#intorduction)
+    - [Directory Tree](#directory-tree)
+    - [Requirements](#requirements)
+    - [Description](#description)
+    - [Reference](#reference)
+    - [Author](#author)
 
 ## Intorduction
 This work contains the impelmentation and comparison of two graph learning algorithms, Causal Graph Process (CGP) [1] and Sparse Vector Autoregressive model (SVAR) [2]. These two graph learning methods can be used to derive the graph representation among a large number of unstructured time series data, and then make predictions on the future data.
@@ -41,5 +43,9 @@ Signal Processing, vol. 65(8), pp. 2077−2092, 2017.
 [2] A. Davis, Richard & Zang, Pengfei & Zheng, Tian. (2012). “Sparse Vector Autoregressive Modeling.” Journal of
 ComputaIonal and Graphical StaIsIcs.
 
-## Contributor
-- [Hong-Ming Chiu](https://hong-ming.github.io/)
+## Author
+Name  : Hong-Ming Chiu
+
+Email : hmchiu2 [at] illinois.edu
+
+Website : [https://hong-ming.github.io](https://hong-ming.github.io/)
